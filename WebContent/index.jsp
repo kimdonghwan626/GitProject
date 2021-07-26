@@ -21,8 +21,8 @@
 	<p>신규 개발이 이루어지는 중 입니다.
 	<ul>
 		<li>master</li>
-		<li></li>
-		
+		<li>o 신규개발</li>
+		<li>깃허브 푸쉬</li>
 	</ul>
 </body>
 <script></script>
