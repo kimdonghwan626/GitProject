@@ -9,6 +9,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<nav><div>네비게이션</div></nav>
 	<h3>폐기 기능</h3>
 	<p>폐기 기능은 commit하기 전 상태의 파일을 완전히 삭제하는 기능이다.</p> 
 	
@@ -16,6 +17,8 @@
 	<p>브런치 초기화 - 특정 지점으로 초기화하는 기능</p>
 	<p>리버스 커밋 - </p>
 	<p>불필요한 내용 추가</p>
+	
+	
 </body>
 <script></script>
 </html>
