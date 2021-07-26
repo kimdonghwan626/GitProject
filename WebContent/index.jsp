@@ -9,7 +9,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	<h3>폐기 기능</h3>
+	<p>폐기 기능은 commit하기 전 상태의 파일을 완전히 삭제하는 기능이다.</p> 
 </body>
 <script></script>
 </html>
